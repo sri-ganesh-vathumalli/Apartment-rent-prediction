@@ -1,3 +1,8 @@
-this is the first line created for testing
-this is second line for testing
-this is third line for testing
+welcome...
+
+Apartment rent prediction is a an applicaition for predicting apartment rent using machine learning.
+This application can be used to predict the potential renting price of an apartment with required features.
+It supports three cities aroud new york currently
+1. Manhatten
+2. Brooklyn
+3. new york
