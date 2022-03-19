@@ -19,3 +19,4 @@ the main module is abstract to the user.
 the data will be provied to main module using the UI and the data from the main is provided to user.
 
 Machine Learning.
+machine learning is a branch of computer science dedicated to automation of tasks which require immense effort otherwise.
