@@ -20,3 +20,8 @@ the data will be provied to main module using the UI and the data from the main 
 
 Machine Learning.
 machine learning is a branch of computer science dedicated to automation of tasks which require immense effort otherwise.
+this model uses two algorithms for making predictions.
+
+1.random forest regressor
+2.Multivariable linear regression.
+
