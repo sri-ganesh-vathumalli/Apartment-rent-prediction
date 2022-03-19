@@ -2,7 +2,20 @@ welcome...
 
 Apartment rent prediction is a an applicaition for predicting apartment rent using machine learning.
 This application can be used to predict the potential renting price of an apartment with required features.
-It supports three cities aroud new york currently
+
+It supports three cities aroud new york currently.
 1. Manhatten
 2. Brooklyn
 3. new york
+
+the code is completely in python and the source code has been divided into multiple modules.
+the modules of the code include
+1.UI
+2.Main
+
+these two modules are interconnected.
+the UI modules takes care of everything the use can see such as input forms, buttons, labels, results.
+the main module is abstract to the user.
+the data will be provied to main module using the UI and the data from the main is provided to user.
+
+Machine Learning.
